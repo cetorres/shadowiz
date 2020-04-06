@@ -1,5 +1,5 @@
 function shadowiz(options) {
-    let elements = document.querySelectorAll('.shadowizard');
+    let elements = document.querySelectorAll('.shadowiz');
 
     if (options.shadow_type === 'hard')
         options.shadow_type = '0px'
