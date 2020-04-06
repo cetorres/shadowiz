@@ -2,6 +2,8 @@
 
 Get perfect shadows every time for the non-designer.
 
+(A test npm package)
+
 # Installation
 
 `npm i shadowiz --save`
