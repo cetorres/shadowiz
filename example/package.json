@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "shadowiz": "^1.0.0"
+    "shadowiz": "^1.0.1"
   }
 }

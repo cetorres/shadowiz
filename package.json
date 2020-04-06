@@ -1,6 +1,6 @@
 {
   "name": "shadowiz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get perfect shadows every time for the non-designer. (A test npm package)",
   "main": "index.js",
   "scripts": {
